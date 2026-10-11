@@ -36,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
