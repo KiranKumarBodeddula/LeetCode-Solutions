@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0724-find-pivot-index](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1991-find-the-middle-index-in-array](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
