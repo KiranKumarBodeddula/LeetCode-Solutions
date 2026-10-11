@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0724-find-pivot-index](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Hash Table
 |  |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
