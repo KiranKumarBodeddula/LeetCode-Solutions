@@ -41,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
