@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
+| [1859-sorting-the-sentence](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 ## Stack
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [1859-sorting-the-sentence](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 ## Recursion
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
