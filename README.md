@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0394-decode-string) |
@@ -54,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 ## Sorting
 |  |
