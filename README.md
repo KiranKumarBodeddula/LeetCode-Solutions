@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1991-find-the-middle-index-in-array](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1859-sorting-the-sentence](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 ## Recursion
