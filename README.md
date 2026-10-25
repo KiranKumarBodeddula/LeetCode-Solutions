@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1991-find-the-middle-index-in-array](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 ## Recursion
 |  |
