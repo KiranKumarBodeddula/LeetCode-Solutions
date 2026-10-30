@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1991-find-the-middle-index-in-array](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Prefix Sum
 |  |
