@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/KiranKumarBodeddula/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
